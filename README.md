@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @femboyliam
+- 👀 I’m interested in " Sigma males "
+- 🌱 I’m currently learning Java, Lua, Skirpt, Python
+- 📫 How to reach me discord.gg/velocitymc or discord femoboyliam_
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: So i love playing minecraft i am also a femboy so yea!
