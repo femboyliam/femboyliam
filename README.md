@@ -14,7 +14,7 @@ Python: Mastering this popular language for its simplicity and efficiency. 🐍
 Feel free to connect with me on Discord! You can find me at discord.gg/velocitymc or directly at @femboyliam_. Let’s chat, collaborate, or just hang out! 🌟
 
 😄 Pronouns:
-He/him – Always here to support and collaborate with the community! 🌈
+He/him Always here to support and collaborate with the community! 🌈
 
 ⚡ Fun Fact:
 I’m an avid Minecraft player and a proud femboy! Gaming and self-expression are two of my greatest passions. Let’s build, explore, and have fun together in the world of Minecraft and beyond! 🌍💖
