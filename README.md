@@ -1,8 +1,6 @@
 # 💖 About Me:
 Hey there! I'm Liam, a 17-year-old femboy developer working for Nova, a Danish private company. I've been creating Minecraft Java mods and plugins for 6 years, specializing in server optimization and custom gameplay mechanics! 
 
-> 🌸 **Pro tip**: This profile respects your system preferences for light/dark mode!
-
 ## 🌈 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/liam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@liam)
 
