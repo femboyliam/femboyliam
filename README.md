@@ -1,7 +1,5 @@
 # 💖 About Me:
-Hey there! I'm Liam, a 17-year-old femboy developer working for Nova, a Danish private company. I've been creating Minecraft Java mods and plugins for 6 years, specializing in server optimization and cute gameplay mechanics! 
-
-> 🌸 **Pro tip**: This profile respects your system preferences for light/dark mode!
+Hey there! I'm Liam, a 17 year old femboy developer working for Nova, a Danish private company. I've been creating Minecraft Java mods and plugins for 6 years, specializing in server optimization and cute gameplay mechanics! 
 
 ## 🌈 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/liamcutie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liamcutie) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/liamcutie) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@liamcutie)
@@ -26,20 +24,6 @@ Hey there! I'm Liam, a 17-year-old femboy developer working for Nova, a Danish p
 [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/download.html)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/download/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/try/download/community)
-
-# 🌟 My Minecraft Projects
-
-## 🎀 CutieCraft
-A collection of adorable cosmetic plugins for Spigot servers, adding cute accessories, particle effects, and custom sounds.
-
-## 🧁 SweetCore
-A performance optimization library for Minecraft servers that maintains the cute aesthetic while improving TPS.
-
-## 🌈 PastelPets
-A mod that adds customizable, pastel-colored pet companions with unique abilities to your Minecraft world.
-
-## 🍭 CandyLand
-A complete gameplay overhaul that transforms the Minecraft world into a sweet, colorful paradise with custom biomes and mobs.
 
 # 📫 How to reach me
 <div align="center">
