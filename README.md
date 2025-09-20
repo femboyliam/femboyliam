@@ -1,51 +1,48 @@
-# 🔥 Liam's Epic Dev Page (2016 Vibes) 🔥
+# ⚡ Liam — Developer ReadMe
 
-![Views](https://komarev.com/ghpvc/?username=liam&color=blue&style=flat-square)  
-*Welcome to my super cool developer README lol 😎*
+![Views](https://komarev.com/ghpvc/?username=liam&color=black&style=flat-square)  
 
 ---
 
 ## 👤 About Me
-Hey guys! I'm **Liam** 👋  
-I'm a developer who’s been messing around with **CS:GO mods/tools** and random game dev stuff since forever.  
-Back in the day I started with Lua scripts, now I dabble in **C++, C#, and JavaScript** like a boss. 💻  
-
-> *"Coding at 3am with energy drinks is peak productivity"* – Me, probably
+- Started out with **Lua scripts** in games  
+- Now I work with **C++, C#, JavaScript, and Lua**  
 
 ---
 
-## 🌐 Social Media (Follow me or you’re a noob 🤣)
-- 🐦 [Twitter](https://twitter.com/)  
-- 🎮 [Discord](https://discord.gg/liam)  
-- 📺 [YouTube](https://youtube.com/@liam)  
-- 💜 [Twitch](https://twitch.tv/liam)
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/discord-000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/liam)  
+[![YouTube](https://img.shields.io/badge/youtube-000000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@liam)  
+[![Twitch](https://img.shields.io/badge/twitch-000000.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/liam)  
 
 ---
 
 ## 🖥 Languages I Use
-- 💙 **Lua** (first love, still scripting dumb stuff lol)  
-- 💛 **JavaScript** (web panels, bots, random junk)  
-- ❤️ **C++** (fast as heck, CS:GO tools, performance stuff)  
-- 💚 **C#** (WinForms days anyone?? 😭)  
+[![Lua](https://img.shields.io/badge/lua-000000.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)  
+[![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
+[![C#](https://img.shields.io/badge/csharp-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)  
 
 ---
 
-## ⚙️ Tools of the Trade
-- 📝 **Notepad++** (yes I still use it sometimes, fight me)  
-- 🧑‍💻 **Visual Studio / VS Code**  
-- 🛠 **GitHub** (where all my cringe projects live lol)  
-- 🖥 **Old school CS:GO cheat loaders and random tools (2016 nostalgia)**  
+## 🎮 Game Development
+[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)  
+[![Unreal Engine](https://img.shields.io/badge/unreal-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com/)  
+
+- Worked on **mods and tools** for CS:GO  
+- Made **Minecraft plugins & scripts**  
+- Experimented with **Unity & Unreal projects**  
 
 ---
 
-## 🎮 Game Dev Stuff
-- Messed with **CS:GO tooling** (client mods, scripting, utilities)  
-- **Minecraft plugins** back in the day 🌲  
-- **Random Unity & Unreal projects** that never got finished 🤡  
+## ⚙️ Tools
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
 
 ---
 
-## 💬 Example Code (because every 2016 README had random snippets)
+## 💬 Example Code
 ```lua
--- Lua: first script ever lmao
-print("Hello World, I'm hacking CS:GO (jk)")
+-- Lua classic script
+print("Hello from Liam, 2016 vibes loaded.")
